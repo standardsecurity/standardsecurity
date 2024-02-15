@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @standardsecurity
 - 👀 I’m interested in gaming, football and tech.
-- 🌱 I’m currently studying computer science at college
+- 🌱 I’m currently studying computer science at university 
 - 📫 Reach me on Instagram @standard_security
 
 <!---
